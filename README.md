@@ -127,7 +127,7 @@ Self-Healing-Intrusion-Detection/
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/Self-Healing-Intrusion-Detection.git
+git clone https://github.com/vaishali0204/Self-Healing-Intrusion-Detection.git
 
 Move into the project folder:
 cd Self-Healing-Intrusion-Detection
