@@ -1,0 +1,21 @@
+Sample,Prediction,Self-Healing Action
+1,Attack,Blocked IP | Restarted Service | Alert Sent
+2,Attack,Blocked IP | Restarted Service | Alert Sent
+3,Normal,No Action
+4,Attack,Blocked IP | Restarted Service | Alert Sent
+5,Normal,No Action
+6,Normal,No Action
+7,Normal,No Action
+8,Normal,No Action
+9,Normal,No Action
+10,Attack,Blocked IP | Restarted Service | Alert Sent
+11,Normal,No Action
+12,Normal,No Action
+13,Attack,Blocked IP | Restarted Service | Alert Sent
+14,Attack,Blocked IP | Restarted Service | Alert Sent
+15,Normal,No Action
+16,Normal,No Action
+17,Normal,No Action
+18,Normal,No Action
+19,Normal,No Action
+20,Attack,Blocked IP | Restarted Service | Alert Sent
