@@ -157,7 +157,7 @@ When an intrusion is detected, the system runs a predefined recovery template:
 ```
 Self-Healing-Intrusion-Detection/
 │
-├── datasets/
+├── dataset/
 │   ├── KDDTrain+.txt
 │   └── KDDTest+.txt
 │
@@ -166,7 +166,6 @@ Self-Healing-Intrusion-Detection/
 ├── network_logs.csv
 ├── requirements.txt
 ├── README.md
-└── images/
 ```
 
 ## Installation
